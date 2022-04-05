@@ -1,5 +1,3 @@
-
-#include <ctime>
 #include <iostream>
 #include "esp_tls.h"
 #include "esp_http_client.h"
